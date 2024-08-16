@@ -23,7 +23,7 @@
 ### Внимание!! Обязательно предоставляем на проверку получившийся код в виде ссылки на ваш github-репозиторий!
 ------
 
-![ter1]()
+![ter1](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 ### Задание 1
 
@@ -31,9 +31,9 @@
 
 ### Решение
 
-![ter2]()
+![ter2](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
-![ter3]()
+![ter3](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 
 2. Изучите файл **.gitignore**. В каком terraform-файле, согласно этому .gitignore, допустимо сохранить личную, секретную информацию?(логины,пароли,ключи,
@@ -43,18 +43,18 @@
 
 В данном файле указывается , что информация хранится в personal.auto.tfvars
 
-![ter4]()
+![ter4](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 
 3. Выполните код проекта. Найдите  в state-файле секретное содержимое созданного ресурса **random_password**, пришлите в качестве ответа конкретный ключ и его значение.
 
 ### Решение
 
-![ter5]()
+![ter5](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 На скриншоте выделен ключ и его значение.
 
-![ter6]()
+![ter6](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 
 4. Раскомментируйте блок кода, примерно расположенный на строчках 29–42 файла **main.tf**.
@@ -64,11 +64,11 @@
 
 Ошибки
 
-![ter7]()
+![ter7](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 Исправлены ошибки
 
-![ter8]()
+![ter8](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 
 5. Выполните код. В качестве ответа приложите: исправленный фрагмент кода и вывод команды ```docker ps```.
@@ -93,7 +93,7 @@ resource "docker_container" "nginx" {
 
 ```
 
-![ter9]()
+![ter9](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 6. Замените имя docker-контейнера в блоке кода на ```hello_world```. Не перепутайте имя контейнера и имя образа. Мы всё ещё продолжаем использовать name = "nginx:latest". Выполните команду ```terraform apply -auto-approve```.
 Объясните своими словами, в чём может быть опасность применения ключа  ```-auto-approve```. Догадайтесь или нагуглите зачем может пригодиться данный ключ? В качестве ответа дополнительно приложите вывод команды ```docker ps```.
@@ -112,13 +112,13 @@ resource "docker_container" "nginx" {
 terraform plan
 
 ```
-![ter10]()
+![ter10](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 ```
 terraform apply -auto-approve
 
 ```
-![ter11]()
+![ter11](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 Ключ -auto-approve автоматически подтверждает все изменения без моего подтверждения и предварительного просмотра изменений.
 
@@ -132,7 +132,7 @@ terraform destroy -auto-approve
 
 ```
 
-![ter12]()
+![ter12](/home/serg/Pictures/Screenshots/ter1.png /home/serg/Pictures/Screenshots/ter2.png /home/serg/Pictures/Screenshots/ter3.png /home/serg/Pictures/Screenshots/ter4.png /home/serg/Pictures/Screenshots/ter5.png /home/serg/Pictures/Screenshots/ter6.png /home/serg/Pictures/Screenshots/ter7.png /home/serg/Pictures/Screenshots/ter8.png /home/serg/Pictures/Screenshots/ter9.png /home/serg/Pictures/Screenshots/ter10.png /home/serg/Pictures/Screenshots/ter11.png /home/serg/Pictures/Screenshots/ter12.png)
 
 
 8. Объясните, почему при этом не был удалён docker-образ **nginx:latest**. Ответ **ОБЯЗАТЕЛЬНО НАЙДИТЕ В ПРЕДОСТАВЛЕННОМ КОДЕ**, а затем **ОБЯЗАТЕЛЬНО ПОДКРЕПИТЕ** строчкой из документации [**terraform провайдера docker**](https://docs.comcloud.xyz/providers/kreuzwerker/docker/latest/docs).  (ищите в классификаторе resource docker_image )
